@@ -20,7 +20,7 @@ Queremos agradecer la colaboración de los gobiernos de Ciudad de Buenos Aires, 
 ## Licencia
 
 Copyright© 2023. Banco Interamericano de Desarrollo ("BID"). Uso autorizado. [AM-331-A3](/LICENSE.md)
-
+-
 
 ## Autores
 
